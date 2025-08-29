@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IdentifyErrors",
+            "request": "launch",
+            "mainClass": "IdentifyErrors",
+            "projectName": "CSA-Template-Source_fc936bb0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "CSA-Template-Source_fc936bb0"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
